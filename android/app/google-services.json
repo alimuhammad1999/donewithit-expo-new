@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177740959023",
+    "project_id": "donewithit-c9d76",
+    "storage_bucket": "donewithit-c9d76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177740959023:android:282cab62e01d4d7b6ba5da",
+        "android_client_info": {
+          "package_name": "com.expo.doneWithIt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmouv-s0kRMQH7yVwkrOHEt4Sqc-Gp-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177740959023:android:7fb5b0b7d393609a6ba5da",
+        "android_client_info": {
+          "package_name": "com.expo.donewithit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmouv-s0kRMQH7yVwkrOHEt4Sqc-Gp-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
